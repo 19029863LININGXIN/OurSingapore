@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OurSingapore</string>
+    <string name="tvSong">Island Name</string>
+    <string name="etTitle">Enter Island Name here</string>
+    <string name="tvSingers">Island Description</string>
+    <string name="etSinger">Enter Islands\' Description here</string>
+    <string name="tvYear">Island Area</string>
+    <string name="etYear">Enter Island Area here</string>
+    <string name="tvStar">Star</string>
+    <string name="btnInsert">insert</string>
+    <string name="btnShow">show list</string>
+    <string name="btnShowStar">show all songs with 5 stars</string>
+    <string name="btnUpdate">update</string>
+    <string name="btnDel">delete</string>
+    <string name="btnCancel">cancel</string>
+    <string name="tvID">ID</string>
+</resources>
